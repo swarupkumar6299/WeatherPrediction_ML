@@ -17,8 +17,8 @@ import pytz
 import os
 
 # ApI Call
-API_KEY = '7776198be7c14f2911c050555dbec626' # My Api
-BASE_URL = 'https://api.openweathermap.org/data/2.5/' # base url for making API request
+API_KEY = 'Your Api' # My Api
+BASE_URL = ""
 
 # 3 Featch Current weather Data
 def get_current_weather(city):
